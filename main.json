@@ -1,0 +1,61 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Is anyone there?", "Good day"],
+        "responses": ["Hello!", "Hi there!", "Greetings! How can I assist you with learning today?"]
+    },
+    {
+        "tag": "python",
+        "patterns": ["What is Python?", "Tell me about Python", "Python programming"],
+        "responses": [
+            "Python is a popular programming language known for its simplicity and readability.",
+            "Python is widely used in web development, data analysis, artificial intelligence, and scientific computing."
+        ]
+    },
+    {
+        "tag": "java",
+        "patterns": ["What is Java?", "Tell me about Java", "Java programming"],
+        "responses": [
+            "Java is a versatile programming language used for building web applications, mobile apps, and large systems.",
+            "Java is known for its platform independence, meaning it can run on any device with a JVM."
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "See you later", "I’m done"],
+        "responses": ["Goodbye! Happy learning!", "See you later!", "Bye! Keep coding!"]
+    },
+    {
+        "tag": "thanks",
+        "patterns": ["Thank you", "Thanks", "Thanks a lot"],
+        "responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+    },
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+        "responses": ["Hello!", "Hi there! How can I assist you?", "Hey! How's it going?"]
+    },
+    {
+        "tag": "education",
+        "patterns": ["What is education?", "Tell me about education", "Define education"],
+        "responses": [
+            "Education is the process of facilitating learning or acquiring knowledge, skills, values, and habits.",
+            "Education helps people gain the knowledge and skills they need to succeed in life.",
+            "The act or process of imparting or acquiring particular knowledge or skills."
+        ]
+    },
+    {
+        "tag": "courses",
+        "patterns": ["What courses can I take?", "Suggest some online courses", "Educational courses"],
+        "responses": [
+            "You can explore courses on Python, Data Science, AI, Cloud Computing, and more!",
+            "Platforms like Coursera, Udemy, and edX offer excellent courses in various domains.",
+            "Try learning Python, Web Development, or AI to boost your skills!"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Goodbye", "Bye", "See you", "Catch you later"],
+        "responses": ["Goodbye! Have a great day!", "Bye! Take care!", "See you soon!"]
+    }
+]
